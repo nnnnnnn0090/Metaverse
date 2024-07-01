@@ -1,5 +1,5 @@
 Client REL4.4 (Latest)
-キャラクタ追加！
+キャラクター追加！
 
 Client REL4.3
 リスポーンポイント修正
