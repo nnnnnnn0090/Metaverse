@@ -1,4 +1,8 @@
-Client REL4.5 (Latest)
+Client REL4.6 (Latest)
+昼夜サイクルの追加
+Systemメッセージの文字化け修正
+
+Client REL4.5
 昼夜サイクルの追加に伴う更新
 ※既知の問題 - Systemメッセージの文字化け
 
