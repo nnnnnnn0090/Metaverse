@@ -1,5 +1,5 @@
 Client REL4.5 (Latest)
-昼夜サイクルを追加に伴う更新
+昼夜サイクルの追加に伴う更新
 ※既知の問題 - Systemメッセージの文字化け
 
 Client REL4.4
