@@ -1,7 +1,11 @@
 ※重要「illegal byte sequence encounted in the input. parameter name string」エラーが発生した場合は、
 コントロールパネル > 時計と地域 > 地域 > 管理 > システムロケールの変更 > ワールドワイド言語サポートを有効にしてください。
 
-Client REL4.6 (Latest)
+Client REL4.7.2 (Latest)
+UIの再作成
+入力チェック改善
+
+Client REL4.6
 昼夜サイクルの追加
 Systemメッセージの文字化け修正
 
